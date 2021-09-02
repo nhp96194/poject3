@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-img{
+    background-image: url(img/pool2.jpg);
+    height: 650px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: center center;
+
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 36px;
+    color: coral;
+    font-weight: bold;
+}
+h2{
+    text-align: justify;
+    margin: 10px 30px;
+    color: deeppink;
+}
+.text{
+    background-color: darkcyan;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+    color: red;
+    
+    
+}
+p{
+    color: dodgerblue;
+    text-align: center;
+}

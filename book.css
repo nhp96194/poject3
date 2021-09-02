@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-image: url(img/pool2.jpg);
+    height: 500px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: center center;
+
+}
+.book-now{
+    background-color: darkcyan;
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: coral;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.content{
+    float: left;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+p{
+    padding: 5px;
+    color: chartreuse;
+}
+.radio{
+    padding-left: 10px;
+}
+ul{
+    line-height: 200px;
+}
+a{
+    margin-right: 80px;
+    font-size: 18px;
+    color: blue;
+    border: 1px solid yellow;
+    padding: 5px 10px;
+    
+}
+a:hover{
+    color: coral;
+    border: 1px solid blue;
+    padding: 5px 1opx;
+}
